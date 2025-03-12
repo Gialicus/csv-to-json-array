@@ -3,6 +3,9 @@
   "name": "csv-to-json-array",
   "title": "Csv to Json Array",
   "description": "parse csv file into json file",
+  "categories": [
+    "Data"
+  ],
   "icon": "extension-icon.png",
   "author": "giali_coletta",
   "license": "MIT",
